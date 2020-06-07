@@ -1,4 +1,4 @@
-# C_Programming_Project
+# C_Programming_Projects
 ### - Binary Search Tree (BST)
   - A program that implemented a binary search tree of strings.
 ### - Hunt the Wumpus Game (Graph)
