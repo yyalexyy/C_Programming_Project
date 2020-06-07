@@ -1,0 +1,2 @@
+gcc -Wall -c bst.c
+gcc -Wall driver.c bst.o -o test_driver

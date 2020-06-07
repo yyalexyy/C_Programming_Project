@@ -1,0 +1,4 @@
+
+gcc -Wall -c graph.c
+gcc -Wall -c main.c
+gcc -Wall -o main.exe main.o  graph.o
