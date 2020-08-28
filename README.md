@@ -3,7 +3,7 @@
   - A program that implemented a binary search tree of strings.
 ### - Hunt the Wumpus Game (Graph)
   - A program that implements a simple version of an early computer game (Hunt the Wumpus).
-  - Created a Graph class to store the grpah by using adjacency list.
+  - Created a Graph class to store the graph by using adjacency list.
   - The program takes in three sets of input: a map specification, a starting location for the player and the Wumpus, and then the player’s sequence of moves.
   - During the game, the program give the player feedback about whether he is getting closer to the Wumpus (warmer) or further from it (colder).
   - It also provide varying levels of descriptive detail regarding the adjoining rooms.
